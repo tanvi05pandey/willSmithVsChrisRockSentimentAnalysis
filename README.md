@@ -1,5 +1,5 @@
 # willSmithVsChrisRockSentimentAnalysis
-An analysis of Tweets on the famous slap of Oscar 2022
+An analysis of Tweets on the famous slap of Oscars 2022
 
 ## Data Collection:
 The data has been scraped off of Twitter using **snscrape** - a scraper for social networking services (SNS). The tweets are dated from March 27, 2022 00:00:00 hours to March 28, 2022 23:59:59. I scraped the tweets seperately for Will Smith and Chris Rock in a file called twitterDataOscar.csv and twitterDataOscarChris.csv, respectively.
